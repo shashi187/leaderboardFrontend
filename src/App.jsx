@@ -15,7 +15,7 @@ function App() {
   };
 
   return (
-    <div className="bg-gradient-to-r from-blue-400 to bg-green-400">
+    <div className="">
       <h1 className="text-4xl py-10 text-center font-bold">🏆 Leaderboard Web</h1>
       <p className="px-10 text-lg">Add a user or select one of the user from the dropdown to claim random points and climb the leaderboard.</p>
       <AddUser onUserAdded={handleRefresh} />
