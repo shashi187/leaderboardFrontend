@@ -1,5 +1,5 @@
 import { useState } from "react";
-import './app.css'
+// import './app.css'
 import AddUser from "./components/AddUser";
 import UserSelect from "./components/UserSelect";
 import ClaimButton from "./components/ClaimButton";
